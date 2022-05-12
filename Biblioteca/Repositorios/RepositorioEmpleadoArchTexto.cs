@@ -81,7 +81,7 @@ public class RepositorioEmpleadoArchTexto
                         contiene = linea.Contains(empleado.DNI.ToString());
                     if (contiene is true)
                     {
-                        sw.WriteLine($"{empleado.DNI} | {empleado.Apellido} | {empleado.Nombre} | {empleado.Direccion} | {empleado.FechaDeNacimiento} | {empleado.NumeroLegajo}");                       
+                        sw.WriteLine($" {empleado.DNI} | {empleado.Apellido} | {empleado.Nombre} | {empleado.Direccion} | {empleado.FechaDeNacimiento} | {empleado.NumeroLegajo}");                       
                     } else if (contiene is false)
                         sw.WriteLine(linea);
                 }
