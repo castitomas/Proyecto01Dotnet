@@ -1,0 +1,4 @@
+ 18000000 | COLOMBO | Marina | calle 1 numero 1123 | 3/14/1960 12:00:00 AM | 4/1/2022 12:00:00 AM 
+ 30000000 | MARTINEZ | Jose | calle 12 numero 321 | 9/12/1980 12:00:00 AM | 1/12/2022 12:00:00 AM 
+ 32000000 | GARCIA | Analia | calle 13 numero 112 | 10/29/1982 12:00:00 AM | 5/12/2022 12:00:00 AM 
+ 40000000 | FERRETI | Josefina | Diag. 74 numero 13 | 1/17/2000 12:00:00 AM | 4/11/2022 12:00:00 AM 
