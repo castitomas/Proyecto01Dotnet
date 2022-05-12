@@ -3,6 +3,6 @@
  
  ## Funcionalidades
  
--Crear, modificar y eliminar clientes y empleados.
--Crear listas a partir de los datos.
--Pasar los datos a archivos de texto.
+-Crear, modificar y eliminar clientes y empleados. \n
+-Crear listas a partir de los datos. \n
+-Pasar los datos a archivos de texto. \n
