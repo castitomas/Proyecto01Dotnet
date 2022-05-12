@@ -1,5 +1,1 @@
- 12123456 | SOSA | Pablo | calle numero 23 | 5/16/1950 12:00:00 AM | 432 
- 42234555 | RODRIGUEZ | Juana | Av. 7 numero 1223 | 2/11/1989 12:00:00 AM | 112 
- 43015771 | ALVAREZ | Silvina | Av. 25. numero 857 | 1/24/2001 12:00:00 AM | 555 
- 44345753 | ADAMI | Julia | calle 53 numero 423 | 7/14/1999 12:00:00 AM | 987 
- 20789654 | MARTINEZ | Daniel | calle 117 numero 54 | 8/11/1995 12:00:00 AM | 741 
+

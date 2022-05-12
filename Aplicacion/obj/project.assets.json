@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\caast\\proyectosDotNet\\Trabajo01\\Aplicacion\\Aplicacion.csproj",
+      "projectUniqueName": "c:\\Users\\caast\\proyectosDotNet\\Trabajo01\\Aplicacion\\Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "C:\\Users\\caast\\proyectosDotNet\\Trabajo01\\Aplicacion\\Aplicacion.csproj",
+      "projectPath": "c:\\Users\\caast\\proyectosDotNet\\Trabajo01\\Aplicacion\\Aplicacion.csproj",
       "packagesPath": "C:\\Users\\caast\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\caast\\proyectosDotNet\\Trabajo01\\Aplicacion\\obj\\",
+      "outputPath": "c:\\Users\\caast\\proyectosDotNet\\Trabajo01\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\caast\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\caast\\proyectosDotNet\\Trabajo01\\Biblioteca\\Biblioteca.csproj": {
-              "projectPath": "C:\\Users\\caast\\proyectosDotNet\\Trabajo01\\Biblioteca\\Biblioteca.csproj"
+            "c:\\Users\\caast\\proyectosDotNet\\Trabajo01\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "c:\\Users\\caast\\proyectosDotNet\\Trabajo01\\Biblioteca\\Biblioteca.csproj"
             }
           }
         }

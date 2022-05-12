@@ -16,12 +16,6 @@ public class AgregarClienteUseCase
                     contiene = true;
             }
         }
-        // var lineas = File.ReadAllLines("Clientes.txt");
-        // foreach (var linea in lineas)
-        // {
-        //     if (linea.Contains(cli.DNI.ToString()))
-        //         contiene = true;
-        // }
         if (contiene is false)
             repo?.AgregarCliente(cli);
         else 
